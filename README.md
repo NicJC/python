@@ -12,7 +12,7 @@
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=azure alt=linkedin style="margin-bottom: 8px;" />
 </a>
 
-<p>I love numbers, and I’m truly amazed by how numbers control so many things in our daily lives. I’m particularly fascinated by number distributions, and how certain sequences of numbers are able to predict future outcomes.</p>
+<p>I love numbers, analytical programming and I'm amazed by statistical distributions and probability theory.</p>
 <br>
 <p><img src="avatar.jpg" alt="Nic Coxen" float: right; style="width:170px;height:170px;margin-left:15px;">
 </br>	
@@ -25,7 +25,3 @@
 <li>Analytic programming</li>
 </ul>
 		</br>
-
-My site is available [here](https://nic-math-stats.netlify.app)!
-
-
